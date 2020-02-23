@@ -35,4 +35,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
 
+// TAPPING_TERM is for tap/hold keys
 #define TAPPING_TERM 160
+
+// Settings for mouse movement keys. See qmk_firmware/docs/feature_mouse_keys.md
+#define MOUSEKEY_DELAY 270
+#define MOUSEKEY_INTERVAL 16
+#define MOUSEKEY_MAX_SPEED 8
