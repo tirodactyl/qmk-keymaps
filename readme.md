@@ -16,7 +16,7 @@ util/qmk_install.sh
 From the qmk root dir:
 
 ```
-cp <pathtocustomkeymaps>/<keyboardname> keyboards/<keyboardname>/keymaps/
+cp <pathtocustomkeymaps>/<keyboardname> keyboards/<keyboardname>/tirodactyl
 
 make <keyboardname>:tirodactyl
 ```
